@@ -1,5 +1,4 @@
 import React from "react";
-import { Input } from "@material-ui/core";
 import Image from "next/image";
 
 import Header from "./components/head/Header";
