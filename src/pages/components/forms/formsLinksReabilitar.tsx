@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 
-import { FormWrapper } from "./forms.style";
+import FormWrapper from "./forms.style";
 
 export default function FormsLinksReabilitar() {
   return (

@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const HomeWrapper = styled.div`
+const HomeWrapper = styled.div`
   margin: 0%;
   padding: 0%;
   width: 100vw;
@@ -9,3 +9,5 @@ export const HomeWrapper = styled.div`
   flex-direction: column;
   align-items: center;
 `
+
+export default HomeWrapper;

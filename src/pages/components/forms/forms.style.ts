@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const FormWrapper = styled.div`
+const FormWrapper = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -13,3 +13,5 @@ export const FormWrapper = styled.div`
     justify-content: center;
   }
 `;
+
+export default FormWrapper;

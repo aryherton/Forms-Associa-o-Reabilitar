@@ -3,7 +3,7 @@ import Image from "next/image";
 
 import Header from "./components/head/Header";
 import FormsLinksReabilitar from "./components/forms/formsLinksReabilitar";
-import { HomeWrapper } from "./home.style";
+import HomeWrapper from "./home.style";
 
 
 // import { useQuery } from "@apollo/client";
