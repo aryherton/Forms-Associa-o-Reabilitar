@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 const FormWrapper = styled.div`
+  margin-top: 90px;
   display: flex;
   flex-direction: column;
   align-items: center;
