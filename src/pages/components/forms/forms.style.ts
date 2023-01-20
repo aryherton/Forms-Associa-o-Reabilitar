@@ -34,7 +34,7 @@ const FormWrapper = styled.div`
       }
     }
     
-    a {
+    .linkFrom {
       color: black;
       text-decoration: none;
     }

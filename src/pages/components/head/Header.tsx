@@ -1,5 +1,5 @@
 import React from "react";
-import '../../../app/globals.css';
+import '../../../appTest/globals.css';
 import Image from "next/image";
 
 import HeaderWrapper from './Header.style';

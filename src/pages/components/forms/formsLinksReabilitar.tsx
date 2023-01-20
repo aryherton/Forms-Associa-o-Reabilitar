@@ -29,7 +29,7 @@ export default function FormsLinksReabilitar() {
       {arrLinkForm.map((item) => (
         <div className="buttonLinkFrom" key={nanoid(10)}>
           <button>
-            <Link href={item.linkForm}>
+            <Link href={item.linkForm} className="linkFrom">
               { item.descricao }
             </Link>
           </button>
