@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "nodemon --watch . --exec \"next\" dev",
     "build": "next build",
-    "start": "next build && nodemon --watch . --exec \"next\" dev",
+    "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
