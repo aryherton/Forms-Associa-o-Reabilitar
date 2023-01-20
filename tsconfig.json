@@ -19,6 +19,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/pages/components/footer/FooterStyle.js", "src/pages/components/forms/forms.style.js", "src/pages/components/head/Header.style.js", "src/pages/index.style.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/pages/components/footer/footerStyle.js", "src/pages/components/forms/formsStyle.js", "src/pages/components/head/headerStyle.js", "src/pages/indexStyle.js"],
   "exclude": ["node_modules"]
 }

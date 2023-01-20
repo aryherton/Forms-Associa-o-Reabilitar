@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { nanoid } from "nanoid";
 
-import FormWrapper from "./forms.style";
+import FormWrapper from "./formsStyle";
 
 export default function FormsLinksReabilitar() {
   const arrLinkForm = [

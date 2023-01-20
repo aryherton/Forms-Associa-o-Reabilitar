@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 
-import HeaderWrapper from './Header.style';
+import HeaderWrapper from './headerStyle';
 
 export default function Header() {
   return (
