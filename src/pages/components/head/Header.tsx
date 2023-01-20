@@ -7,8 +7,11 @@ import HeaderWrapper from './Header.style';
 export default function Header() {
   return (
     <HeaderWrapper>
-      <Image src="/log-reabilitar.png" alt="Logo" width={200} height={150} />
-      <span>Fromulários (Associação Reabilitar)</span>
+      <h2>
+        Sistema Estadual de Transporte Eletivo
+      </h2>
+      <h1>STE</h1>
+      <Image src="/log-reabilitar.png" alt="Logo" width={150} height={100} />
     </HeaderWrapper>
   );
 }
