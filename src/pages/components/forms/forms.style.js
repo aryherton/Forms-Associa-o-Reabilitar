@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 const FormWrapper = styled.div`
   display: flex;
@@ -37,6 +37,23 @@ const FormWrapper = styled.div`
     .linkFrom {
       color: black;
       text-decoration: none;
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      .iconForm {
+        width: 20%;
+        height: 100%;
+      }
+      .descricaoButton {
+        width: 60%;
+        height: 100%;
+      }
+      .divFake {
+        width: 20%;
+        height: 100%;
+      }
     }
   }
 `;
