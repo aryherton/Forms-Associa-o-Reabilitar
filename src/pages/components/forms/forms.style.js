@@ -7,6 +7,7 @@ const FormWrapper = styled.div`
   justify-content: space-around;
   width: 600px;
   height: 350px;
+  margin-bottom: 20px;
 
   .buttonLinkFrom {
     display: flex;
