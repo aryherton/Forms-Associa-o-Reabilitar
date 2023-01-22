@@ -32,8 +32,8 @@ const FooterWrapper = styled.div`
     align-self: flex-end;
 
     #autoTruck {
-      width: 60px;
-      height: 30px;
+      width: 40px;
+      height: 20px;
     }
 
     #appm {
@@ -55,8 +55,8 @@ const FooterWrapper = styled.div`
     align-self: flex-end;
 
     #govPiaui {
-      width: 140px;
-      height: 40px;
+      width: 130px;
+      height: 30px;
     }
   }
   }
