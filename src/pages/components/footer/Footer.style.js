@@ -25,7 +25,7 @@ const FooterWrapper = styled.div`
     justify-content: space-between;;
     align-items: center;
     width: 100%;
-    height: 80px;
+    height: 95px;
 
     #firstImgFooter {
     display: flex;
@@ -69,35 +69,35 @@ const FooterWrapper = styled.div`
     height: 130px;
 
     #firstImgFooter {
-    display: flex;
-    align-self: flex-end;
-
-    #autoTruck {
-      width: 90px;
-      height: 60px;
+      display: flex;
+      align-self: flex-end;
+  
+      #autoTruck {
+        width: 40px;
+        height: 20px;
     }
 
-    #appm {
-      width: 140px;
-      height: 60px;
-    }
+      #appm {
+        width: 80px;
+        height: 30px;
+      }
     }
 
     #secondImgFooter{
-    align-self: flex-start;
-
-    #reabilitar {
-      width: 120px;
-      height: 80px;
-    }
+      align-self: flex-start;
+  
+      #reabilitar {
+        width: 120px;
+        height: 90px;
+      }
   }
 
   #thirdImgFooter{
     align-self: flex-end;
 
     #govPiaui {
-      width: 220px;
-      height: 70px;
+      width: 130px;
+      height: 30px;
     }
   }
   }
