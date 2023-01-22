@@ -8,7 +8,6 @@ const HomeWrapper = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: space-around;
   background-image: url('/Veículo.png');
   background-repeat: no-repeat;
   background-size: cover;

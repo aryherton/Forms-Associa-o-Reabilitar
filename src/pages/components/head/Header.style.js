@@ -7,6 +7,8 @@ const HeaderWrapper = styled.div`
   width: 750px;
   height: 100px;
   font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 10px;
 
   h2, h1 {
     margin-bottom: -15px;
@@ -21,8 +23,8 @@ const HeaderWrapper = styled.div`
   }
 
   @media (min-height: 360px) and (max-width: 860px) {
-    width: 70%;
-    height: 50px;
+    width: 100%;
+    height: 90px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -30,8 +32,9 @@ const HeaderWrapper = styled.div`
 
     h2, h1 {
       color: #878A8E;
-      font-size: 0.7rem;
+      font-size: 1.1rem;
       font-weight: bolder;
+      letter-spacing: -1px;
       margin: 0%;
     }
 
