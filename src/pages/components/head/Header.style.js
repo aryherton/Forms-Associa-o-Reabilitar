@@ -4,7 +4,7 @@ const HeaderWrapper = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 750px;
+  width: 100%;
   height: 100px;
   font-weight: bold;
   margin-top: 20px;
