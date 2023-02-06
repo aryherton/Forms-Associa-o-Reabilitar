@@ -6,6 +6,7 @@ import Footer from "./components/footer/Footer";
 
 import HomeWrapper from "./home.style";
 // import { useQuery } from "@apollo/client";
+//test commit erro layout
 
 export default function NewHome(): JSX.Element {
   return (
