@@ -6,7 +6,7 @@ const arrLinkForm = [
     },
     {
         descricao: 'DIÁRIO DE BORDO',
-        linkForm: 'https://forms.zohopublic.com/heltonpqd/form/DIRIODEBORDO/formperma/kLg3PkZCWWNebjNwQqi4OoduMVapNnZa6zXv69_coko',
+        linkForm: 'https://forms.zohopublic.com/adilio/form/DIRIODEBORDOteste/formperma/UihceI7Txe6nywTF4CpLD2mHqKgE4J0gWDR2jU2eXcE',
         icon: '/diarioBordo.png'
     },
     {
