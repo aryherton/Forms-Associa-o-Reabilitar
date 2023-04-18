@@ -1,7 +1,7 @@
 const arrLinkForm = [
     {
         descricao: 'INFORMAÇÕES DIÁRIAS',
-        linkForm: 'https://forms.zohopublic.com/heltonpqd/form/FECHAMENTODEVIAGEM/formperma/p6Y2B5h7cJ4Vnc4PzspGpmIyVJzoVA95xyavmpcGsmE',
+        linkForm: 'https://forms.zohopublic.com/adilio/form/INFORMAESDIRIAS/formperma/qYBm16bKlJY6LgPkYvUlE120Pf2N8O3Au4V5_bNXwUk',
         icon: '/listaInfo.png'
     },
     {
