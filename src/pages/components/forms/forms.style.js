@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-const FormWrapper = styled.div`
+const FormWrapper = styled.main`
   display: flex;
   flex-direction: column;
   align-items: center;
