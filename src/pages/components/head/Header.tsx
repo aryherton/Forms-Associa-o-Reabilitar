@@ -1,6 +1,6 @@
 import React from "react";
 
-import HeaderWrapper from './Header.style';
+import HeaderWrapper from './Header.style.js';
 
 export default function Header() {
   return (
