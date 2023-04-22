@@ -4,7 +4,7 @@ import Link from "next/link";
 import { nanoid } from "nanoid";
 
 import ArrLinkForm from "../../../utils/linkForm";
-import FormWrapper from "./forms.style.js";
+import FormWrapper from "../../../styles/forms.style.js";
 
 export default function FormsLinksReabilitar() {
   return (
