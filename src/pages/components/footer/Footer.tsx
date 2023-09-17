@@ -14,7 +14,7 @@ export default function Footer() {
         <Image id="reabilitar" src="/log-reabilitar.png" alt="Logo" width={130} height={90} />
       </div>
       <div id="thirdImgFooter">
-        <Image id="govPiaui" src="/govPiaui.png" alt="Logo" width={180} height={45} />
+        <Image id="govPiaui" src="/newLogo-removebg.png" alt="Logo" width={250} height={75} />
       </div>
     </FooterWrapper>
   );
