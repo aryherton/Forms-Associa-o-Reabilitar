@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 
-import FooterWrapper from './footer.style';
+import FooterWrapper from './footer.style.js';
 
 export default function Footer() {
   return (
