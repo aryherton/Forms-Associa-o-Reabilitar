@@ -16,6 +16,7 @@ const FormWrapper = styled.main`
     text-align: center;
     width: 250px;
     height: 70px;
+    margin-top: 10px;
 
     button {
       width: 100%;

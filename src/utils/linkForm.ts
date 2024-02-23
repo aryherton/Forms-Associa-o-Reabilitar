@@ -15,6 +15,11 @@ const arrLinkForm = [
     icon: '/mapaComple.png'
   },
   {
+    descricao: 'TROCA DE ACOMPANHANTE',
+    linkForm: 'https://forms.zohopublic.com/adilio/form/TROCADEACOMPANHANTE/formperma/WIknkhbtyQcLoDRpYceRQeb0TMHgtLbee3Q4HzgDBI0',
+    icon: '/mapaComple.png'
+  },
+  {
     descricao: 'SOLICITAÇÃO DE SERVIÇOS',
     linkForm: 'https://forms.zohopublic.com/adilio/form/SOLICITAODESERVIOS/formperma/Fr_QFwOkECv8tlKOQzJEweehUMPC0Kdf7si-OfJGqMg',
     icon: '/manutencao.png'
