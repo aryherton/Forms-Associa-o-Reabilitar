@@ -6,7 +6,7 @@ export default function Header() {
   return (
     <HeaderWrapper>
       <h2>
-        Sistema Estadual de Transporte Eletivo
+        Sistema de Transporte Eletivo de Pacientes
       </h2>
       <h1>STE</h1>
     </HeaderWrapper>
