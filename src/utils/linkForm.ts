@@ -17,7 +17,12 @@ const arrLinkForm = [
   {
     descricao: 'TROCA DE ACOMPANHANTE',
     linkForm: 'https://forms.zohopublic.com/adilio/form/TROCADEACOMPANHANTE/formperma/WIknkhbtyQcLoDRpYceRQeb0TMHgtLbee3Q4HzgDBI0',
-    icon: '/mapaComple.png'
+    icon: '/duas-pessoas.png'
+  },
+  {
+    descricao: 'EXCLUSÃO DE ACOMPANHANTE',
+    linkForm: 'https://forms.zohopublic.com/adilio/form/EXCLUSODEACOMPANHANTE/formperma/z-y4dl_wo2AosajgYA1ZEP7M2dL3ddWEkQrOOh3uo5g',
+    icon: '/remover-usuario.png'
   },
   {
     descricao: 'SOLICITAÇÃO DE SERVIÇOS',
