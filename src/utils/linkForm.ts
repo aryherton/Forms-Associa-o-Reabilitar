@@ -28,6 +28,11 @@ const arrLinkForm = [
     descricao: 'SOLICITAÇÃO DE SERVIÇOS',
     linkForm: 'https://forms.zohopublic.com/adilio/form/SOLICITAODESERVIOS/formperma/Fr_QFwOkECv8tlKOQzJEweehUMPC0Kdf7si-OfJGqMg',
     icon: '/manutencao.png'
+  },
+  {
+    descricao: 'CHECK LIST DO VEÍCULO',
+    linkForm: 'https://zfrmz.com/Xr8rw2EFNQMr27JLwfK9',
+    icon: '/manutencao.png'
   }
 ]
 
